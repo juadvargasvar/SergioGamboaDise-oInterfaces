@@ -1,0 +1,8 @@
+body 
+{margin:0;}
+.lista-horizontal
+{margin:0;relleno:0;}
+.background-pink 
+{display:inline-block; background:green; widht:25%; fill:10 px ;border: 10 px  red  solid ;} 
+.lista-horizontal__item a {} 
+# header-home { background-color : maroon ;}
